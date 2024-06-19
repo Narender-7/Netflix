@@ -7,7 +7,7 @@ Analyze the data and generate insights that could help Netflix ijn deciding whic
 
 **Dataset**
 
-**Link**: Netflix.csv
+**Link**: [Netflix.csv](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)
 
 The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:
 
